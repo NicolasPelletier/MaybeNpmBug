@@ -1,0 +1,9 @@
+{
+  "name": "pack1",
+  "version": "0.1.2",
+  "description": "Dummy module to demonstrate a bug",
+  "license": "MIT",
+  "dependencies": {
+    "oauth": "0.9.10"
+  }
+}

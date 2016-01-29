@@ -1,0 +1,15 @@
+{
+  "name": "mainApp",
+  "version": "1.0.0",
+  "description": "Dummy main app to demonstrate a bug",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "pack1": "./pack1"
+  },
+  "devDependencies": {
+    "oauth": "0.9.14"
+  }
+
+}
